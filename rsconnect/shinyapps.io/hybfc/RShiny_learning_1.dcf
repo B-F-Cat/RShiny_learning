@@ -1,0 +1,13 @@
+name: RShiny_learning_1
+title: RShiny_learning_1
+username:
+account: hybfc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 623124
+bundleId: 1782768
+url: https://hybfc.shinyapps.io/RShiny_learning_1/
+when: 1545741832.15458
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md|template.R
